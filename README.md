@@ -1,4 +1,4 @@
-# Knowledge-Graph-Creation-From-A-Dataset-Networkx
+# Knowledge-Graph-creation-from-a-Dataset-Networkx
 This script creates and visualizes a bipartite knowledge graph to explore the relationships between movie titles and their genres using data from a CSV file (movies.csv). The script is implemented using Python with the pandas, networkx, and matplotlib libraries.
 
     Data Loading: The script loads movie data from a CSV file (movies.csv) into a pandas DataFrame.
