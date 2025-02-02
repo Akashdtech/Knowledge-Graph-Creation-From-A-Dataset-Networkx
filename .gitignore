@@ -1,0 +1,15 @@
+# Ignore notebook checkpoints
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+*.csv 
+
+# Ignore output files
+*.png
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
